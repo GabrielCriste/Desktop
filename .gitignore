@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Extra ignore patterns specific to this project
 # Installed JS libraries
 node_modules/
@@ -142,4 +143,21 @@ screenshots/
 README.md
 LICENSE
 .pre-commit-config.yaml
+=======
+.bsp/
+.idea/
+.vscode/
+target/
+.bleep/
+.bloop/
+.metals
+metals.sbt
+*.worksheet.sc
+/data/
+.scala-build/
+
+# Devenv
+.devenv*
+devenv.local.nix
+>>>>>>> 7066014
 
