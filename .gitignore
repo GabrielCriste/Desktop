@@ -137,3 +137,9 @@ dmypy.json
 
 # Additional ignores
 screenshots/
+
+.github/
+README.md
+LICENSE
+.pre-commit-config.yaml
+
